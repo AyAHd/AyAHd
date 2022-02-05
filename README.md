@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AyAHd
+- 👀 I’m interested in 🛼, 🎮, 🚶🏼
+- 🌱 I’m currently learning 🚀 React (TypeScript), 🐍 Python & 🖥 Electron
+- 💞️ I’m looking to collaborate on Web Design projects and productivity tool design & implementation.
