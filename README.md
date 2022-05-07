@@ -1,9 +1,9 @@
 > 👋 Hi, I'm Alex (a.k.a. `AyAHd`, `Nel`, `Ayasu`, `AHD` - not exhaustive list), a French IT engineer (🎓 EPITA#2015 - Information System and Software Engeneering) currently working as an Architecture/Data solutions consultant for insurance, banking and military companies.
 >
 > I'm interested in internet since 2000 and I love to code. This repository is supposed to be **mostly** about it.
-<>
 ---
-<details><summary><b>You want to know more ❓</b></summary>
+
+**You want to know more ❓**
 <details><summary><b>👤 Personal projects</b></summary>
 
 > I like using code as a tool to improve productivity, knowledge sharing and creativity or just for fun.
@@ -26,8 +26,8 @@ In some games, it might be useful to set automatic daily reward (using Make)...
 ### [🍵 Teapot party](https://AyAHd.GitHub.io/teapot-party.htm)
 [🍵 Teapot party](https://AyAHd.GitHub.io/teapot-party.htm) is a SPA (+Data) used in Genshin Impact random team creation process. 
 
-### [⏲ Vecotorial clock](https://AyAHd.GitHub.io/clock.htm)
-[⏲ Vecotorial clock](https://AyAHd.GitHub.io/clock.htm) is a embedable SPA used for better time-management. It is embedable in Notion, Obsidian, etc... 
+### [⏲ Vectorial clock](https://AyAHd.GitHub.io/clock.htm)
+[⏲ Vectorial clock](https://AyAHd.GitHub.io/clock.htm) is a embedable SPA used for better time-management. It is embedable in Notion, Obsidian, etc... 
 
 ---
 </details>
