@@ -37,7 +37,7 @@ In my free time I like to:
 - 🧠 Code in 🐍 Python, 🚀 React (+TypeScript) and web languages.
 - 🖌 Draw (or code) vectors (with SVG and its integrations [in HTML with CSS and JS], see [⏲ Vecotorial clock](https://AyAHd.GitHub.io/clock.htm) and [🌈 Hue wheel](https://AyAHd.GitHub.io/hue-wheel.htm))
 - 🎮 Play and theorycraft (or code) about:
-  - Genshin (see [🍵 Teapot party](https://AyAHd.GitHub.io/teapot-party.htm), a tool to randomize team selection).
+  - Genshin (see [🍵 Teapot party](https://AyAHd.GitHub.io/teapot-party/), a tool to randomize team selection).
   - MMORPGs (Lineage ][, B&S), RPG (Pokémon, Diablo III), board games and RPGs 🎲 
 - 😻 Pet my cats, 🔨 craft things (🧱 including house), 🌱 garden, 🎿 ride (roller & ski), ⛵ navigate, 🎲 play, 🥾 walk, 🎧 listen to music, 🎶 go to concerts, 🎤 sing, 🧭 camp 
 
