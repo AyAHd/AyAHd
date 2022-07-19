@@ -23,8 +23,8 @@ In some games, it might be useful to set automatic daily reward (using Make)...
 ### [🌈 Hue wheel](https://AyAHd.GitHub.io/hue-wheel.htm)
 [🌈 Hue wheel](https://AyAHd.GitHub.io/hue-wheel.htm) is a SPA that is supposed to help understanding and picking color in the HSL (Hue Saturation Luminosity) notation.
 
-### [🍵 Teapot party](https://AyAHd.GitHub.io/teapot-party.htm)
-[🍵 Teapot party](https://AyAHd.GitHub.io/teapot-party.htm) is a SPA (+Data) used in Genshin Impact random team creation process. 
+### [🍵 Teapot party](https://AyAHd.GitHub.io/teapot-party/)
+[🍵 Teapot party](https://AyAHd.GitHub.io/teapot-party/) is a SPA (+Data) used in Genshin Impact random team creation process. 
 
 ### [⏲ Vectorial clock](https://AyAHd.GitHub.io/clock.htm)
 [⏲ Vectorial clock](https://AyAHd.GitHub.io/clock.htm) is a embedable SPA used for better time-management. It is embedable in Notion, Obsidian, etc... 
